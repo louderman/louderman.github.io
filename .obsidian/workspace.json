@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/projects/cld.md",
+                "file": "pages/projects/lumiere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cld"
+              "title": "lumiere"
             }
           }
         ]
@@ -167,18 +167,23 @@
   },
   "active": "fc191c556ec478d0",
   "lastOpenFiles": [
+    "pages/projects/roboclash_ratking.md",
+    "assets/lumiere/lumiere.mp4",
+    "assets/lumiere/ai_gen.jpg",
+    "assets/lumiere/nerf_model.jpg",
+    "assets/lumiere/lumiere_thumbnail.jpg",
+    "assets/lumiere",
+    "pages/projects/parceleye.md",
+    "pages/projects/lumiere.md",
+    "pages/projects/in_between.md",
+    "pages/projects/cld.md",
     "assets/cld/pre_project.jpg",
     "assets/cld/owie.jpg",
     "assets/cld/model_photo.jpg",
     "assets/cld/CLD_day.png",
     "assets/cld/CLD_thumbnail.png",
     "assets/cld/demo_draft.jpg",
-    "pages/projects/cld.md",
-    "pages/projects/in_between.md",
-    "pages/projects/lumiere.md",
     "assets/cld/burnt.jpg",
-    "assets/cld/light-demonstration.mp4",
-    "pages/projects/parceleye.md",
-    "pages/projects/roboclash_ratking.md"
+    "assets/cld/light-demonstration.mp4"
   ]
 }
