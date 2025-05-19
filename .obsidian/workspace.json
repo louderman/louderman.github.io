@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/projects/lumiere.md",
+                "file": "pages/projects/cld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lumiere"
+              "title": "cld"
             }
           }
         ]
@@ -167,25 +167,25 @@
   },
   "active": "fc191c556ec478d0",
   "lastOpenFiles": [
+    "pages/projects/in_between.md",
+    "pages/projects/cld.md",
+    "pages/projects/lumiere.md",
+    "assets/cld/burnt.jpg",
     "assets/lumiere/lumiere.mp4",
     "assets/lumiere/drawing.jpg",
     "assets/lumiere/lumiere_model.jpg",
     "pages/projects/parceleye.md",
     "pages/projects/roboclash_ratking.md",
-    "pages/projects/lumiere.md",
     "assets/lumiere/lumiere_intro.png",
     "assets/lumiere/akari_lights.png",
     "Pasted image 20250519223434.png",
-    "pages/projects/cld.md",
     "README.md",
     "pages/index.md",
     "pages/about.md",
-    "pages/projects/in_between.md",
     "assets/roboclash/what_a_mess (1).jpg",
     "assets/roboclash/rat_king.jpg",
     "assets/roboclash/what_a_mess.jpg",
     "assets/roboclash/motor.jpg",
-    "assets/roboclash/fabricating_rat.jpg",
     "assets/roboclash.md",
     "_projects/(5) CLD.md",
     "_projects/(4) Rat King - Roboclash 2024.md",
