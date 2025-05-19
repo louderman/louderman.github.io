@@ -23,7 +23,7 @@ Next up was the presentation. The massive presentation/report was a group effort
 
 # What I Learnt
 Personally, I used this project to practice animation and to integrate my own personal skills to polish its presentation. My programming skills weren't of much use here (another groupmate was already handling the functional prototype), so it was the perfect opportunity to use my art and animation prowess for a school project! The video is below for you to watch.
-
-![alt text](https://github.com/user-attachments/assets/78506b63-246d-45ec-b964-9924e2371579 "Fully animated!")
-
+```liquid
+{% include elements/video.html id="78506b63-246d-45ec-b964-9924e2371579" %}
+```
 
