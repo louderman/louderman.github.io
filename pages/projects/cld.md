@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Constructing Living Dreams
+title: Constructing Living Dreams - 2024
 permalink: /projects/constructing_living_dreams
 weight: 3
 ---

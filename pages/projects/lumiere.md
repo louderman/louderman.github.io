@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lumiere
+title: Lumiere - 2025
 permalink: /projects/lumiere
 weight: 3
 ---

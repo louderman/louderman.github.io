@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ParcelEye
+title: ParcelEye - 2025
 permalink: /projects/parceleye
 weight: 3
 ---
