@@ -13,7 +13,7 @@ This project concerns the open garden acting as a connector between the hostel b
 I was in charge of two things:
 1. Fabrication
 	-  I worked with one of my group mates; while they prototyped the different surfaces for the supertree, I was in charge of fabricating the patterns onto a plywood surface. We initially attempted to use acrylic, but it was too fragile and cracked easily, hence the material swap from acrylic to plywood. ![alt text](/assets/cld/owie.jpg "This didn't work.")
-	-  The aim was to find a pattern that gives the plywood flexibility, while also ensuring it remains robust enough that it doesn't break easily. Once the pattern was decided, then it was only a matter of cutting it out to be attached to the supertree stems.![alt text](/assets/cld/light-demonstration.mp4 "How the light scatters with a simulated Sun moving overhead.")
+	-  The aim was to find a pattern that gives the plywood flexibility, while also ensuring it remains robust enough that it doesn't break easily. Once the pattern was decided, then it was only a matter of cutting it out to be attached to the supertree stems.![alt text](/assets/cld/demo_draft.jpg "How the light scatters with a simulated Sun moving overhead.")
 2.  Virtual 3D Modeling
 	-  Part of the project deliverables was to build a virtual demo of the site as well. I handled this in Sketchup with initial drafts using the V-Ray rendering engine, a plugin for Sketchup. Once the environment was modelled and accurately rendered, the project file would be handed over to my group mate, who animated its use case and touched up the site further in Twinmotion.![alt text](/assets/cld/CLD_day.png "Take a look!")
 
