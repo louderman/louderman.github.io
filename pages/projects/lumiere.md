@@ -20,6 +20,10 @@ It wasn't very satisfactory, and experimenting with it further yielded worse res
 
 Next up was the presentation. The massive presentation/report was a group effort, but I focused on animating a video to show off how the flower lamp would be used in the future environment we picked. The entire video was completely hand-drawn without any AI, using my prior art and animation skills to bring imagination into reality.
 ![alt text](/assets/lumiere/drawing.jpg "Your light in the dark..")
+
 # What I Learnt
-Personally, I used this project to practice animation and to integrate my own personal skills to polish its presentation. My programming skills weren't of much use here (another groupmate was already handling the functional prototype), so it was the perfect opportunity to use my art and animation prowess for a school project!
-![alt text](https://github.com/louderman/louderman.github.io/raw/refs/heads/main/assets/lumiere/lumiere.mp4 "The final result!")
+Personally, I used this project to practice animation and to integrate my own personal skills to polish its presentation. My programming skills weren't of much use here (another groupmate was already handling the functional prototype), so it was the perfect opportunity to use my art and animation prowess for a school project! The video is below for you to watch.
+
+https://github.com/user-attachments/assets/78506b63-246d-45ec-b964-9924e2371579
+
+
