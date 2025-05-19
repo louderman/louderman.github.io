@@ -7,7 +7,7 @@ weight: 3
 
 # Project Summary
 This project concerns the open garden acting as a connector between the hostel blocks in my university. It was chosen due to the dull and unassuming space and the constant exposure to the Sun turning it into an open-air sauna during the day. So, within the six of us in one group, we tried to transform the garden into a more aesthetically pleasing space while also providing comfort from direct sunlight and high temperatures.
-![alt text](assets/cld/pre_project.jpg "The garden we scouted for our project.")
+![alt text](pre_project.jpg "The garden we scouted for our project.")
 
 # My Involvement
 I was in charge of two things:
