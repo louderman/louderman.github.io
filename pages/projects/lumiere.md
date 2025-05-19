@@ -14,7 +14,7 @@ This project was for an architecture module I took alongside my programming clas
 Part of the project's objectives was to make use of AI image generators to help reimagine these objects into something new. Alongside a group mate, the two of us were in charge of AI art generation. I had prior experience with using AI image generators and so did my group mate, so this was a breeze. The trouble came from using NeRF to create a 3D model to build it using purely synthetic images.
 ![alt text](/assets/lumiere/nerf_model.jpg "It does certainly look like it's made out of paper....")
 
-It wasn't very satisfactory, and experimenting with it further yielded worse results. We had to resort to using an AI-generated image as a base and model it manually in Rhino3D. I was the one handling NeRF, while my other partner ended up doing the manual modelling instead.
+It wasn't very satisfactory, and experimenting with it further yielded worse results. The website we used to convert images into NeRF did not work well with completely synthetic images, often leading to flat models or 'patchy' models that simply wasn't serviceable. We had to resort to using an AI-generated image as a base and model it manually in Rhino3D. I was the one handling NeRF, while my other partner ended up doing the manual modelling instead.
 ![alt text](/assets/lumiere/ai_gen.jpg "The base used for the physical model.")
 ![alt text](/assets/lumiere/lumiere_model.jpg "The physical model itself!.")
 
