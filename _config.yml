@@ -18,7 +18,10 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - pages/projects
+  - pages/projects/cld.md
+  - pages/projects/roboclash_ratking.md
+  - pages/projects/in_between.md
+  - pages/projects/parceleye.md
 
 
 ### Author Info ###
@@ -27,7 +30,7 @@ author:
   image             : https://i.imgur.com/x4vCbMh.jpeg
 # behance           : your_username
 # dribbble          : your_username
-  email             : daniel_johary@mymail.sutd.edu.sg
+  email             : danielmirza2929@gmail.com
 # facebook          : your_username
   github            : louderman
 # gitlab            : your_username
