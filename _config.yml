@@ -20,7 +20,6 @@ nav_exclude:                                            # The following paths ar
   - pages/index.md
   - pages/projects/cld.md
   - pages/projects/roboclash_ratking.md
-  - pages/projects/in_between.md
   - pages/projects/parceleye.md
   - pages/projects/lumiere.md
 
