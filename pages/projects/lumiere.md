@@ -24,6 +24,7 @@ Next up was the presentation. The massive presentation/report was a group effort
 # What I Learnt
 Personally, I used this project to practice animation and to integrate my own personal skills to polish its presentation. My programming skills weren't of much use here (another groupmate was already handling the functional prototype), so it was the perfect opportunity to use my art and animation prowess for a school project! The video is below for you to watch.
 
-```
-<video src="https://github.com/louderman.github.io/assets/lumiere/lumiere.mp4" />
-```
+<video width="640" height="360" controls autoplay muted loop>
+  <source src="/assets/lumiere/lumiere.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
