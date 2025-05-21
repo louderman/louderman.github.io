@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/projects/lumiere.md",
+                "file": "pages/projects/parceleye.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lumiere"
+              "title": "parceleye"
             }
           }
         ]
@@ -167,9 +167,11 @@
   },
   "active": "fc191c556ec478d0",
   "lastOpenFiles": [
-    "pages/projects/cld.md",
     "pages/projects/lumiere.md",
+    "assets/parceleye/parceleye.demo.mp4",
+    "assets/parceleye/parceleye_video.mp4",
     "pages/projects/parceleye.md",
+    "pages/projects/cld.md",
     "pages/projects/roboclash_ratking.md",
     "_projects/(4) CLD.md",
     "_projects/(3) Rat King - Roboclash 2024.md",
